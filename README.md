@@ -16,5 +16,5 @@ All my Code Snippets written in C language
 - Diaplay the below pattern (No. 1)
 - Diaplay the below pattern (No. 2)
 
-## Extra Programs:
+### Extra Programs:
 - Print the sum and average of two numbers taken as input from the user.
