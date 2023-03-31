@@ -13,8 +13,13 @@ All my Code Snippets written in C language
 - Print Odd Numbers between 1 and 100.
 - Print Even Numbers between 1 and 100.
 - Take input in an array from the user and print them.
-- Diaplay the below pattern (No. 1)
-- Diaplay the below pattern (No. 2)
+- Display the following pattern (No. 1)
+- Display the following pattern (No. 2)
+- Swap two numbers taken as input using function.
+- Check whether the number given as input is a Perfect No. or not.
+- Display the following pattern (No. 3)
+- Print the Difference Array of the given array.
+- Print the Digit Count Array of the given array.
 
 ### Extra Programs:
 - Print the sum and average of two numbers taken as input from the user.
