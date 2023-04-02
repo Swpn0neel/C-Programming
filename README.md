@@ -13,11 +13,11 @@ All my Code Snippets written in C language
 - Print Odd Numbers between 1 and 100.
 - Print Even Numbers between 1 and 100.
 - Take input in an array from the user and print them.
-- Display the following pattern (No. 1)
-- Display the following pattern (No. 2)
+- Display the following pattern (No. 1).
+- Display the following pattern (No. 2).
 - Swap two numbers taken as input using function.
 - Check whether the number given as input is a Perfect No. or not.
-- Display the following pattern (No. 3)
+- Display the following pattern (No. 3).
 - Print the Difference Array of the given array.
 - Print the Digit Count Array of the given array.
 
