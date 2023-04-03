@@ -23,3 +23,4 @@ All my Code Snippets written in C language
 
 ### Extra Programs:
 - Print the sum and average of two numbers taken as input from the user.
+<!-- - Pointer Programs  -->
