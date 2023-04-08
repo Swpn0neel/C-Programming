@@ -20,6 +20,8 @@ All my Code Snippets written in C language
 - Display the following pattern (No. 3).
 - Print the Difference Array of the given array.
 - Print the Digit Count Array of the given array.
+- Print the Multiplication Table of a number provided by the user.
+- Print the frequency of each appearing digit of a number provided by the user.
 
 ### Extra Programs:
 - Print the sum and average of two numbers taken as input from the user.
