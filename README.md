@@ -22,6 +22,9 @@ All my Code Snippets written in C language
 - Print the Digit Count Array of the given array.
 - Print the Multiplication Table of a number provided by the user.
 - Print the frequency of each appearing digit of a number provided by the user.
+- Swap the first and last digit of the number given as input.
+- Print all the Perfect numbers between 1 and n.
+- Display the following pattern (No. 4).
 
 ### Extra Programs:
 - Print the sum and average of two numbers taken as input from the user.
