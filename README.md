@@ -26,6 +26,7 @@ All my Code Snippets written in C language
 - Print all the Perfect numbers between 1 and n.
 - Display the following pattern (No. 4).
 - Display the Star Pattern (No. 5).
+- Display the Numerical Pattern (No. 6).
 
 ### Extra Programs:
 - Print the sum and average of two numbers taken as input from the user.
