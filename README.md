@@ -28,6 +28,7 @@ All my Code Snippets written in C language
 - Display the Star Pattern (No. 5).
 - Display the Numerical Pattern (No. 6).
 - Check whether the square root and cube roots of a number are both an integer or not.
+- Print the sum of Harmonic Series.
 
 ### Extra Programs:
 - Print the sum and average of two numbers taken as input from the user.
