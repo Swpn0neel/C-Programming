@@ -25,7 +25,11 @@ All my Code Snippets written in C language
 - Swap the first and last digit of the number given as input.
 - Print all the Perfect numbers between 1 and n.
 - Display the following pattern (No. 4).
+- Display the Star Pattern (No. 5).
+- Display the Numerical Pattern (No. 6).
+- Check whether the square root and cube roots of a number are both an integer or not.
+- Print the sum of Harmonic Series.
+- Print the Fibonacci series as desired by the user.
 
 ### Extra Programs:
 - Print the sum and average of two numbers taken as input from the user.
-- Print the Diamond Pattern.
