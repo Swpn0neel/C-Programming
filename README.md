@@ -30,6 +30,7 @@ All my Code Snippets written in C language
 - Check whether the square root and cube roots of a number are both an integer or not.
 - Print the sum of Harmonic Series.
 - Print the Fibonacci series as desired by the user.
+- Display the following pattern (No. 7).
 
 ### Extra Programs:
 - Print the sum and average of two numbers taken as input from the user.
