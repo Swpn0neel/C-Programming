@@ -31,6 +31,7 @@ All my Code Snippets written in C language
 - Print the sum of Harmonic Series.
 - Print the Fibonacci series as desired by the user.
 - Display the following pattern (No. 7).
+- Print all the Prime Factors of a number.
 
 ### Extra Programs:
 - Print the sum and average of two numbers taken as input from the user.
