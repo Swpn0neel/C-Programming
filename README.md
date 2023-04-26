@@ -32,6 +32,7 @@ All my Code Snippets written in C language
 - Print the Fibonacci series as desired by the user.
 - Display the following pattern (No. 7).
 - Print all the Prime Factors of a number.
+- Display the following pattern (No. 8).
 
 ### Extra Programs:
 - Print the sum and average of two numbers taken as input from the user.
