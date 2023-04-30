@@ -33,6 +33,7 @@ All my Code Snippets written in C language
 - Display the following pattern (No. 7).
 - Print all the Prime Factors of a number.
 - Display the following pattern (No. 8).
+- Print all the pallindrome numbers between 1 and n.
 
 ### Extra Programs:
 - Print the sum and average of two numbers taken as input from the user.
