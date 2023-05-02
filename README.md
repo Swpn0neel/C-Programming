@@ -34,6 +34,7 @@ All my Code Snippets written in C language
 - Print all the Prime Factors of a number.
 - Display the following pattern (No. 8).
 - Print all the pallindrome numbers between 1 and n.
+- Counting every occurances of every element of an array and print them.
 
 ### Extra Programs:
 - Print the sum and average of two numbers taken as input from the user.
