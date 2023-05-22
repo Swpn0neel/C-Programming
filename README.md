@@ -36,6 +36,7 @@ All my Code Snippets written in C language
 32. Print all the pallindrome numbers between 1 and n.
 33. Counting every occurances of every element of an array and print them.
 34. Count the occurance of each and every elements in an array.
+35. Print he characters of  a string in reverse order.
 
 ### Extra Programs:
 - Print the sum and average of two numbers taken as input from the user.
