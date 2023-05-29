@@ -18,25 +18,26 @@ All my Code Snippets written in C language
 14. Swap two numbers taken as input using function.
 15. Check whether the number given as input is a Perfect No. or not.
 16. Display the following pattern (No. 3).
-17. Print the Difference Array of the given array.
-18. Print the Digit Count Array of the given array.
-19. Print the Multiplication Table of a number provided by the user.
-20. Print the frequency of each appearing digit of a number provided by the user.
-21. Swap the first and last digit of the number given as input.
-22. Print all the Perfect numbers between 1 and n.
-23. Display the following pattern (No. 4).
-24. Display the Star Pattern (No. 5).
-25. Display the Numerical Pattern (No. 6).
-26. Check whether the square root and cube roots of a number are both an integer or not.
-27. Print the sum of Harmonic Series.
-28. Print the Fibonacci series as desired by the user.
-29. Display the following pattern (No. 7).
-30. Print all the Prime Factors of a number.
-31. Display the following pattern (No. 8).
-32. Print all the pallindrome numbers between 1 and n.
-33. Counting every occurances of every element of an array and print them.
-34. Count the occurance of each and every elements in an array.
-35. Print the characters of  a string in reverse order.
+17. Take a number as a input and print the next prime number appearing after that number.
+18. Print the Difference Array of the given array.
+19. Print the Digit Count Array of the given array.
+20. Print the Multiplication Table of a number provided by the user.
+21. Print the frequency of each appearing digit of a number provided by the user.
+22. Swap the first and last digit of the number given as input.
+23. Print all the Perfect numbers between 1 and n.
+24. Display the following pattern (No. 4).
+25. Display the Star Pattern (No. 5).
+26. Display the Numerical Pattern (No. 6).
+27. Check whether the square root and cube roots of a number are both an integer or not.
+28. Print the sum of Harmonic Series.
+29. Print the Fibonacci series as desired by the user.
+30. Display the following pattern (No. 7).
+31. Print all the Prime Factors of a number.
+32. Display the following pattern (No. 8).
+33. Print all the pallindrome numbers between 1 and n.
+34. Counting every occurances of every element of an array and print them.
+35. Count the occurance of each and every elements in an array.
+36. Print the characters of  a string in reverse order.
 
 ### Extra Programs:
 - Print the sum and average of two numbers taken as input from the user.
