@@ -39,6 +39,7 @@ All my Code Snippets written in C language
 35. Count the occurance of each and every elements in an array.
 36. Print the characters of  a string in reverse order.
 37. Store the common elements from two arrays in an array and print it.
+38. Find the sum of two numbers using pointers.
 
 ### Extra Programs:
 - Print the sum and average of two numbers taken as input from the user.
