@@ -40,6 +40,7 @@ All my Code Snippets written in C language
 36. Print the characters of  a string in reverse order.
 37. Store the common elements from two arrays in an array and print it.
 38. Find the sum of two numbers using pointers.
+39. Find the maximum number in an array using pointers.
 
 ### Extra Programs:
 - Print the sum and average of two numbers taken as input from the user.
