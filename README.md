@@ -42,6 +42,7 @@ All my Code Snippets written in C language
 38. Find the sum of two numbers using pointers.
 39. Find the maximum number in an array using pointers.
 40. Print the difference array of the given array and also the maximum difference.
+41. Find the Factorial of an input number using Recursion.
 
 ### Extra Programs:
 - Print the sum and average of two numbers taken as input from the user.
