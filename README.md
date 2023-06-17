@@ -44,6 +44,7 @@ All my Code Snippets written in C language
 40. Print the difference array of the given array and also the maximum difference.
 41. Find the Factorial of an input number using Recursion.
 42. Compare the lengths of two user-given strings and print them.
+43. Compare the length of two strings using pointers and functions.
 
 ### Extra Programs:
 - Print the sum and average of two numbers taken as input from the user.
