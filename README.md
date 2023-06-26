@@ -46,6 +46,7 @@ All my Code Snippets written in C language
 42. Compare the lengths of two user-given strings and print them.
 43. Compare the length of two strings using pointers and functions.
 44. Find the sum of consecutive array elements using pointers and functions.
+45. Print the first n terms of the fibonacci series using recursion.
 
 ### Extra Programs:
 - Print the sum and average of two numbers taken as input from the user.
