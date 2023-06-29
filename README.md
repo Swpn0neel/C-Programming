@@ -49,6 +49,7 @@ All my Code Snippets written in C language
 45. Print the first n terms of the fibonacci series using recursion.
 46. Print all numbers between 1 and n using pointers and functions.
 47. Print all the possible character permutations of a given string from the user.
+48. Enter Employee Details of 10 Employees and print them.
 
 ### Extra Programs:
 - Print the sum and average of two numbers taken as input from the user.
