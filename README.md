@@ -51,6 +51,7 @@ All my Code Snippets written in C language
 47. Print all the possible character permutations of a given string from the user.
 48. Enter Employee Details of 10 Employees and print them.
 49. Allocate block of memory for an array using malloc and print them.
+50. Copy content of one file into another file using file-handling methods.
 
 ### Extra Programs:
 - Print the sum and average of two numbers taken as input from the user.
