@@ -54,4 +54,4 @@ All my Code Snippets written in C language
 50. Copy content of one file into another file using file-handling methods.
 
 ### Extra Programs:
-- Print the sum and average of two numbers taken as input from the user.
+1. Print the sum and average of two numbers taken as input from the user.
